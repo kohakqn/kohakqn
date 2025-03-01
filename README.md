@@ -1,4 +1,6 @@
-## Hi there 👋
+
+I love kohaai
+こは藍が大好き。
 
 <!--
 **kohakqn/kohakqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
