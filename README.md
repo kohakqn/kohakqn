@@ -1,6 +1,6 @@
 
-I love kohaai
-こは藍が大好き。
+<p>I love kohaai</p>
+<p>こは藍が大好き。</p>
 
 <!--
 **kohakqn/kohakqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
