@@ -1,7 +1,15 @@
 
-<p>I love kohaai</p>
-<p>こは藍が大好き。</p>
-
+<p>I love kohaai.</p>
+<p>こは藍が大好き</p>
+<p>me encanta kohaai.</p>
+<p>english first language. currently learning spanish. low-level comprehension of japanese.</p>
+<ul>
+  <li>knight ♞</li>
+  <li>18+</li>
+  <li>he/him</li>
+  <li>kohaai fan</li>
+  <li>believer of the chupacabra</li>
+</ul>
 <!--
 **kohakqn/kohakqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
