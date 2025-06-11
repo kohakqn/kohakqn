@@ -1,13 +1,11 @@
 
-<p>I love kohaai.</p>
-<p>こは藍が大好き</p>
-<p>me encanta kohaai.</p>
+<p> ⟡ I love kohaai -`♡´- こは藍が大好き -`♡´-  me encanta kohaai ⟡ </p>
+<img src="https://64.media.tumblr.com/f8094c5330c6660b1b49a554d0e8af17/f4db2046aa7d0209-3a/s2048x3072/10cf47bdbef8cca0c8e435e06ea33f2b026a02b3.jpg">
 <p>english first language. currently learning spanish. low-level comprehension of japanese.</p>
 <ul>
   <li>knight ♞</li>
-  <li>18+</li>
   <li>he/him</li>
-  <li>kohaai fan</li>
+  <li>kohaai fan 𖹭 </li>
   <li>believer of the chupacabra</li>
 </ul>
 <!--
