@@ -7,7 +7,7 @@
 >> he/him ♢ </br>
 >> english first language ♠ low-level japanese ♣ currently learning spanish </br>
 >> kohaai fan 𖹭 </br>
->> alkureip ♪ (talk 2 me about kaname 𖹭) </br>
+>> alkureip ♪ </br>
 >> believer of the chupacabra 
 
 
