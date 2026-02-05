@@ -7,7 +7,7 @@
 >> he/him ♢ </br>
 >> english only ♠ </br>
 >> kohaai fan 𖹭 </br>
->> alkureip ♪ </br>
+>> alkureip ♣ </br>
 >> believer of the chupacabra 
 
 
