@@ -2,25 +2,6 @@
 # <p align="center" > ⟡ kohaai fan account ⟡ </p>
 <img src="https://64.media.tumblr.com/f8094c5330c6660b1b49a554d0e8af17/f4db2046aa7d0209-3a/s2048x3072/10cf47bdbef8cca0c8e435e06ea33f2b026a02b3.jpg">
 
-## short intro
-> knight ♞
->> he/him ♢ </br>
->> english only ♠ </br>
->> kohaai fan 𖹭 </br>
->> alkureip ♣ </br>
->> believer of the chupacabra 
-
-
-<hr/>
-
-### the following information is in regards to pt:
-> always c+h (ships okay 👍) </br>
-> usually w2i bc i like 2 write while on pt </br>
-> i like talking 2 people so don't be afraid please </br>
-> usually found within the enstarrie area or the library </br>
-
-that's all for now unless i think of something else to add. okay. ty for readingg & have a good day/night 𖹭
-
 <!--
 **kohakqn/kohakqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
